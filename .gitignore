@@ -1,0 +1,7 @@
+.vscode
+.idea
+*.log
+*-lock.json
+node_modules
+
+packages/**/node_modulesg

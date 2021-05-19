@@ -1,0 +1,19 @@
+{
+  "name": "@imooc-study-cli/utils",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "ikate.me <xsiyuan@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
