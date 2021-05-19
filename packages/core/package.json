@@ -1,6 +1,6 @@
 {
   "name": "@imooc-study-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "ikate.me <xsiyuan@gmail.com>",
   "homepage": "",
@@ -19,5 +19,9 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "c9e0b23320cd97e5b6f3b42331715b01e94f1340",
+  "publishConfig": {
+    "access": "public"
   }
 }
